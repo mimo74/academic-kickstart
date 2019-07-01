@@ -46,5 +46,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<div class="row">
+
+<div class="col-12 col-lg-4 section-heading">
+
+</div>
+<div class="col-12 col-lg-8">
 
 ich beschäftige mich seit Jahrzehnten mit der Entwicklung von Software. Meine Hauptinteresse liegt aktuell im Bereich der Apple-Produktpalette
+
+</div>
+</div>
+
