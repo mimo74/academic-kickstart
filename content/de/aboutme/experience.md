@@ -1,6 +1,6 @@
 +++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "mmexperience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
@@ -20,7 +20,8 @@ date_format = "Jan 2006"
 [[experience]]
   title = "self employed"
   company = "Thallos Sofware — Development lead"
-  company_url = "www.thallos.de"
+  company_url = "https://www.thallos.de"
+  company_img = "/img/ThallosLogo.png"
   location = "germany"
   date_start = "1997-06-01"
   date_end = ""
@@ -38,6 +39,7 @@ date_format = "Jan 2006"
   title = "Senior software developer"
   company = "hagebau IT"
   company_url = "www.hagebau.com"
+  company_img = "/img/hgblogo_small.png"
   location = "Soltau"
   date_start = "1996-03-01"
   date_end = ""
@@ -55,6 +57,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "apprenticeship"
   company = "Gruner + Jahr"
+  company_img = "/img/gujlogo.png"
   company_url = ""
   location = "Hamburg"
   date_start = "1993-08-01"

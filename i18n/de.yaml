@@ -3,6 +3,14 @@
 - id: fluentwith
   translation: sehr gut in
 - id: vertraut mit
-  translation: familiar with
+  translation: vertraut mit
 - id: inearliertimes
   translation: früher mal
+- id: products
+  translation: Produkte
+- id: aboutme
+  translation: Über mich
+- id: privacy
+  translation: Datenschutz
+- id: impressum
+  translation: Impressum / Kontakt
