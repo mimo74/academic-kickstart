@@ -34,7 +34,7 @@ fluentwith:
 - XCode
 - Swift / SwiftUI
 - Objective C
-- Core Data
+- Core Data / SQLite
 - AppKit / UIKit
 - UI Design
 - git

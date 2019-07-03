@@ -1,0 +1,17 @@
+
+ul.ul-mmexperience li {
+    font-size: 1rem;
+    list-style-type: '- ';
+    margin-left: -15px;
+    padding-left: 5px;
+  }
+
+.experience .card-text,
+.experience .card-text p {
+  color: #000 !important;
+  font-size: 1rem !important;
+}
+
+.experience-left {
+    border-left: 1px dashed #333;
+  }

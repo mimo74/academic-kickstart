@@ -1,16 +1,22 @@
 +++
-# Experience widget.
-widget = "mmexperience"  # See https://sourcethemes.com/academic/docs/page-builder/
+# About widget.
+widget = "mmmabout"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear in.
 
-title = "Experience"
-subtitle = ""
+title = "Biography"
+
+# Choose the user profile to display
+# This should be the username of a profile in your `content/authors/` folder.
+# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+author = "admin"
+
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
+experiencetitle = "experience"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -20,8 +26,8 @@ date_format = "Jan 2006"
 [[experience]]
   title = "self employed"
   company = "Thallos Sofware — Development lead"
-  company_url = "www.thallos.de"
-  company_img = "/img/ThallosLogoLS.png"
+  company_url = "https://www.thallos.de"
+  company_img = "/img/ThallosLogo.png"
   location = "germany"
   date_start = "1997-06-01"
   date_end = ""
@@ -72,4 +78,5 @@ date_format = "Jan 2006"
   * first contact with “the internet”
   """
   
+
 +++
