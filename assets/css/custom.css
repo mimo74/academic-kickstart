@@ -1,9 +1,12 @@
 
 ul.ul-mmexperience li {
     font-size: 1rem;
-    list-style-type: '- ';
-    margin-left: -15px;
+    list-style-type: none;
+    margin-left: -20px;
     padding-left: 5px;
+  }
+  ul.ul-mmexperience li::before  {
+    content: "- ";    
   }
 
 .experience .card-text,

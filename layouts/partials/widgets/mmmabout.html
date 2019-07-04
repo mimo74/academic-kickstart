@@ -156,39 +156,56 @@
     </div>
   </div>
 
-  <div class="col-12 col-lg-2" itemprop="description">
+  <div class="col-12 col-lg-3" itemprop="description">
 
     <div class="row">
 
       {{ with $person.fluentwith }}
         <h3>&nbsp;{{ i18n "fluentwith" | markdownify }}</h3>
-        <ul class="ul-mmexperience">
+    </div>
+    <div class="row">
+          <ul class="ul-mmexperience">
           {{ range . }}
           <li>{{ . | markdownify | emojify }}</li>
           {{ end }}
         </ul>
       {{ end }}
+      
+    </div>
+    <div class="row">
 
       {{ with $person.familiarwith }}
         <h3>{{ i18n "familiarwith" | markdownify }}</h3>
-        <ul class="ul-mmexperience">
+      </div>
+      <div class="row">
+          <ul class="ul-mmexperience">
           {{ range . }}
           <li>{{ . | markdownify | emojify }}</li>
           {{ end }}
         </ul>
       {{ end }}
+      
+    </div>
+    <div class="row">
 
       {{ with $person.interests }}
         <h3>{{ i18n "interests" | markdownify }}</h3>
-        <ul class="ul-mmexperience">
+    </div>
+    <div class="row">
+         <ul class="ul-mmexperience">
           {{ range . }}
           <li>{{ . | markdownify | emojify }}</li>
           {{ end }}
         </ul>
       {{ end }}
+
+    </div>
+    <div class="row">
 
       {{ with $person.inearliertimes }}
         <h3>{{ i18n "inearliertimes" | markdownify }}</h3>
+    </div>
+    <div class="row">
         <ul class="ul-mmexperience">
           {{ range . }}
           <li>{{ . | markdownify | emojify }}</li>
@@ -196,19 +213,29 @@
         </ul>
       {{ end }}
 
+    </div>
+    <div class="row">
+
       {{ with $person.languages }}
         <h3>{{ i18n "languages" | markdownify }}</h3>
-        <ul class="ul-mmexperience">
+      </div>
+      <div class="row">
+          <ul class="ul-mmexperience">
           {{ range . }}
           <li>{{ . | markdownify | emojify }}</li>
           {{ end }}
         </ul>
       {{ end }}
+
+    </div>
+    <div class="row">
 
       {{ with $person.education }}
       <div class="col-md-7">
         <h3>{{ i18n "education" | markdownify }}</h3>
-        <ul class="ul-edu fa-ul">
+      </div>
+      <div class="row">
+          <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
