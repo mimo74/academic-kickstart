@@ -15,4 +15,6 @@
 - id: privacy
   translation: privacy
 - id: impressum
-  translation: imprint / contact  
+  translation: imprint / contact 
+- id: stuff
+  translation: stuff  

@@ -7,7 +7,7 @@ date: "2019-05-05T00:00:00+01:00"
 draft: false
 diagram: true
 menu:
-  example:
+  swift:
     parent: Example Topic
     weight: 1
 
@@ -39,9 +39,11 @@ so first have a look at the official apple resource to get a better understaning
 
 Every programming language has a set of conventions that people come to expect. Learn about the patterns that are common to Swift API design, with examples from new APIs like SwiftUI, Combine, and RealityKit. Whether you're developing an app as part of a team, or you're publishing a library for others to use, find out how to use new features of Swift to ensure clarity and correct use of your APIs
 
-Some 
+# Some terminology
 
-## Operator
+## Combine
+
+### Operator
 
 an `Operator` converts values from a publisher to a subcriber
 
@@ -68,7 +70,7 @@ an `Operator` again is a Publisher on its own
     }
 {{< /highlight >}}
 
-## upstream
+### upstream
 
 when subcribers send to a `Publisher`
 
@@ -78,7 +80,7 @@ graph LR;
 {{< /diagram >}}
 
 
-## downstream
+### downstream
 
 when publisher send to a `Subcriber`
 

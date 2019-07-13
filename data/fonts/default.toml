@@ -6,10 +6,10 @@ name = "Default"
 
 # Font families
 heading_font = "-apple-system, BlinkMacSystemFont, Montserrat"
-body_font = "-apple-system, BlinkMacSystemFont, Roboto"
+body_font = "'noto serif', serif"
 nav_font = "-apple-system, BlinkMacSystemFont, Roboto"
 mono_font = "Roboto Mono"
 
 # Font size
-font_size = "16"
-font_size_small = "14"
+font_size = "18"
+font_size_small = "16"

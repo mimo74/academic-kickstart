@@ -6,17 +6,22 @@
 [[main]]
   name = "products"
   url = "#featured"
-  weight = 40
+  weight = 10
+
+[[main]]
+  name = "posts"
+  url = "stuff/swift"
+  weight = 20
 
 [[main]]
   name = "aboutme"
   url = "aboutme/"
-  weight = 50
+  weight = 30
 
 [[main]]
   name = "privacy"
   url = "datenschutz/"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "impressum"

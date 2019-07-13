@@ -66,3 +66,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   author = "authors"
 
 pygmentsUseClasses = true
+
+[params]
+  highlight = true
+  highlight_languages = ["python", "swift"]
