@@ -1,17 +1,17 @@
 ---
 title: Example Page 22
-linktitle: Tips 3-42
+linktitle: more hugo
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
-draft: false
+draft: true
 menu:
-  swift:
-    parent: Example Topic
-    weight: 2
+  hugo:
+    parent: hugo
+    weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 1
 ---
 
 Here are some more tips for getting started with Academic:
