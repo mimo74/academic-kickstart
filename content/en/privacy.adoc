@@ -1,0 +1,560 @@
+---
+title: Privacy Policy
+date: "2019-08-03T00:00:00+01:00"
+draft: false
+share: false
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
+:icons: font
+
+== *imprint*
+
+aCloud is a service of Thallos Software. This website is operated by
+
+Thallos Software +
+Michel Mohrmann +
+Becklinger Straße 7b +
+29683 Dorfmark
+
+Tax number: 4123161609 +
+VAT ID: DE181275389
+
+info (at) http://acalc.de/[acalc.de]
+
+== *privacy*
+
+Data protection has a very high priority for us. Any** **use of
+the *Thallos Software* website and services is generally possible
+without any provision of personal data. However, if an affected person
+wishes to use our company's special services through our website,
+personal data processing may be required. If the processing of personal
+data is required and there is no legal basis for such processing, we
+generally seek the consent of the data subject. +
+ +
+The processing of personal data, such as the name or e-mail address of a
+data subject, will always be in accordance with the *General* Data
+Protection Regulation and in accordance with the country-specific
+privacy policy applicable to the *Thallos Software* . Through this
+privacy policy, our company seeks to inform the public about the nature,
+scope and purpose of the personal information we collect, use and
+process. Furthermore, data subjects are informed of their rights under
+this privacy policy.  +
+ +
+Not all of the services mentioned here will
+be applied to  http://www.acalc.de/[www.acalc.de] . For completeness,
+they are mentioned anyway. +
+ +
+As a controller, Thallos Software has implemented numerous technical and
+organizational measures to ensure the most complete protection of
+personal data processed through this website. Nevertheless,
+Internet-based data transmissions can generally have security holes, so
+that absolute protection can not be guaranteed. For this reason, every
+person concerned is free to provide us with personal data in alternative
+ways.
+
+=== 1. Definitions
+
+The Privacy Policy is based on the terminology used by the European
+legislature and legislature in the adoption of the General Data
+Protection Regulation ( *GDPR* ). Our privacy policy should be easy to
+read and understand for the public as well as for our customers and
+business partners. To ensure this, we would like to explain in advance
+the terminology used.Thallos Software  +
+ +
+In this privacy policy, we use the following terms, among others:
+
+==== a) personal data
+
+    Personal data is any information relating to an identified or
+identifiable natural person (hereinafter the "data subject"). A natural
+person is considered to be identifiable who, directly or indirectly, in
+particular by association with an identifier such as a name, an
+identification number, location data, an online identifier or one or
+more special features, expresses the physical, physiological, genetic,
+mental, economic, cultural or social identity of this natural person can
+be identified.
+
+==== b) the person concerned
+
+    Affected person is any identified or identifiable natural person
+whose personal data is processed by the controller.
+
+==== c) processing
+
+    Processing means any process or series of operations related to
+personal data, such as collecting, collecting, organizing, organizing,
+storing, adapting or modifying, reading, querying, using, with or
+without the aid of automated procedures; disclosure by submission,
+dissemination or other form of provision, reconciliation or association,
+restriction, erasure or destruction.
+
+==== d) Restriction of processing
+
+    Restriction of the processing is the marking of stored personal data
+with the aim to limit their future processing.
+
+==== e) profiling
+
+    Profiling is any kind of automated processing of personal data that
+consists in using that personal information to evaluate certain personal
+aspects relating to a natural person, in particular aspects relating to
+job performance, economic situation, health, personal To analyze or
+predict preferences, interests, reliability, behavior, whereabouts or
+relocation of that natural person.
+
+==== f) Pseudonymisation
+
+    Pseudonymisation is the processing of personal data in such a way
+that personal data can no longer be attributed to a specific data
+subject without the need for additional information, provided that such
+additional information is kept separate and subject to technical and
+organizational measures to ensure that the personal data not assigned to
+an identified or identifiable natural person.
+
+==== (g) controller or controller
+
+    The controller or controller is the natural or legal person, public
+authority, body or body that, alone or in concert with others, decides
+on the purposes and means of processing personal data. Where the
+purposes and means of such processing are determined by Union law or the
+law of the Member States, the controller or the specific criteria for
+his designation may be provided for under Union or national law
+
+==== h) processor
+
+    The processor is a natural or legal person, public authority, agency
+or other body that processes personal data on behalf of the controller.
+
+==== i) receiver
+
+    Recipient is a natural or legal person, agency, agency or other
+entity to whom Personal Data is disclosed, whether or not it is a third
+party. However, authorities which may receive personal data under Union
+or national law in connection with a particular mission are not
+considered as beneficiaries.
+
+==== j) third parties
+
+    Third is a natural or legal person, public authority, body or body
+other than the data subject, the controller, the processor and the
+persons authorized under the direct responsibility of the controller or
+the processor to process the personal data.
+
+==== k) Consent
+
+    Consent is any voluntarily given and unambiguously expressed in the
+form of a statement or other unambiguous confirmatory act by the data
+subject for the particular case, by which the data subject indicates
+that they consent to the processing of the personal data concerning him
+/ her is.
+
+=== 2. Name and address of the controller
+
+Responsible for the purposes of the General Data Protection Regulation,
+other data protection laws in the Member States of the European Union
+and other provisions with data protection character is:  +
+ +
+Thallos Software   +
+Michel Mohrmann   +
+Becklinger Strasse 7b   +
+29683 Bad Fallingbostel   +
+Germany   +
+Tel .: 0516391211   +
+E-Mail: service@thallos.de  +
+Website: http://www.acalc.de/[www.acalc.de]
+
+=== 3. Collecting general data and information
+
+The Thallos Software website collects a set of general data and
+information each time the website is accessed by an affected person or
+an automated system. This general data and information is stored in the
+log files of the server. Can be recorded the
+
+1.  used browser types and versions,
+2.  the operating system used by the accessing system,
+3.  the website from which an accessing system comes to our website
+(so-called referrers),
+4.  the sub-web pages, which are accessed via an accessing system on our
+website,
+5.  the date and time of access to the website,
+6.  an internet protocol address (IP address),
+7.  the internet service provider of the accessing system and
+8.  other similar data and information used in the case of attacks on
+our information technology systems.
+
+When using this general data and information, the Thallos software does
+not draw conclusions about the data subject. Rather, this information is
+needed to
+
+1.  to deliver the contents of our website correctly,
+2.  to optimize the content of our website as well as the advertising
+for it,
+3.  to ensure the permanent functioning of our information technology
+systems and the technology of our websites as well
+4.  to provide law enforcement with the necessary information for
+prosecution in the event of a cyberattack.
+
+This anonymously collected data and information is therefore
+statistically and further evaluated by Thallos Software with the aim of
+increasing data protection and data security in our company in order to
+ultimately ensure the best possible level of protection for the personal
+data we process. The anonymous data of the server log files are stored
+separately from all personal data provided by an affected person.
+
+=== 4. Registration on our website or for the service aCloud
+
+The data subject has the opportunity to register on the website of the
+controller and various apps, providing personal data. The personal data
+to be sent to the controller is derived from the respective input mask
+used for the registration. The personal data entered by the data subject
+shall be collected and stored solely for internal use by the controller
+and for his own purposes. The controller may initiate the transfer to
+one or more processors, such as a parcel service, who also collects
+personal data solely for internal use, +
+ +
+A disclosure of these data to third parties is not, unless there is a
+legal obligation to pass on or the disclosure of law enforcement
+serves.  +
+ +
+By registering the data subject voluntarily providing personal data, the
+data controller serves to provide the data subject with content or
+services that, due to the nature of the case, can only be offered to
+registered users. Registered persons are free to modify the personal
+data given at registration at any time or to delete it completely from
+the database of the data controller. +
+ +
+The collected data can be seen from the input mask during
+registration. Only the registration of an e-mail address is
+possible. This is necessary in order to inform the user about offer or
+registration-relevant information, such as changes in the scope of the
+offer or technical circumstances by e-mail.  +
+The entry of further personal data is possible. These serve only for the
+enrichment of the advertisement within the framework of the web
+portal http://acalc.de/[aCalc.de ]. Further processing does not take
+place.
+
+
+The controller shall, at any time upon request, provide information to each data subject as to which personal data about the data subject is stored. Furthermore, the data controller corrects or deletes personal data at the request or reference of the data subject, insofar as this does not conflict with any statutory storage requirements. A data protection officer named by name in this data protection statement and the entire body of the data controller's employees are available as contact persons for the data subject in this context.
+
+==== 4.1 Anonymous use of aCloud
+
+TIP: anonymous use of aCloud
+
+You have the opportunity to use our services completely anonymously. When registering, simply submit a fantasy e-mail (eg 83682364@acalc.de).
+
+Note that we will not be able to contact you then. Since we do not know you, it is not possible to reset your password if you forget it.
+
+=== 5. Subscription to our newsletter
+
+NOTE: Due to legal uncertainty, we are currently no longer offering a newsletters.
+
+The Thallos Software website gives users the opportunity to subscribe to
+our company newsletter. Which personal data are transmitted to the data
+controller when the newsletter is ordered results from the input mask
+used for this purpose.
+
+The Thallos software informs its customers and business partners at
+regular intervals by way of a newsletter about offers of the
+company. The newsletter of our company can only be received by the
+person concerned if
+
+1.  the affected person has a valid e-mail address and
+2.  the person concerned registers for the newsletter
+
+For legal reasons, a confirmation e-mail will be sent to the e-mail
+address entered by an affected person for the first time for newsletter
+mailing using the double-opt-in procedure. This confirmation email is
+used to check whether the owner of the e-mail address as the person
+concerned authorized the receipt of the newsletter. +
+ +
+When subscribing to the newsletter, we also store the IP address of the
+computer system used by the person concerned at the time of
+registration, as well as the date and time of registration, as assigned
+by the Internet Service Provider (ISP). The collection of this data is
+necessary in order to understand the (possible) misuse of an affected
+person's e-mail address at a later date and therefore serves as legal
+safeguards for the controller. +
+ +
+The personal data collected in the context of registering for the
+newsletter will be used exclusively to send our newsletter. Subscribers
+to the newsletter may also be notified by e-mail if this is necessary
+for the operation of the newsletter service or registration, as might be
+the case in the event of changes to the newsletter or technical
+changes. There will be no transfer of the personal data collected as
+part of the newsletter service to third parties. Subscription to our
+newsletter may be terminated by the person concerned at any time. The
+consent to the storage of personal data that the data subject has given
+us for the newsletter dispatch can be revoked at any time. For the
+purpose of revoking the consent, there is a corresponding link in each
+newsletter. It is also possible to unsubscribe from the newsletter at
+any time, directly on the controller's website, or to inform the
+controller in a different way.
+
+=== 6. Newsletter tracking
+
+NOTE: Due to legal uncertainty, we are currently no longer offering a newsletters.
+
+The newsletters of Thallos software contain so-called counting pixels. A
+counting pixel is a miniature graphic that is embedded in such emails
+that are sent in HTML format to enable log file recording and log file
+analysis. This allows a statistical evaluation of the success or failure
+of online marketing campaigns. Based on the embedded pixel, Thallos
+software can detect if and when an email was opened by an affected
+person and which links in the email were accessed by the data subject. +
+ +
+Such personal data collected via the counting pixels contained in the
+newsletters will be stored and evaluated by the controller in order to
+optimize the delivery of newsletters and to better adapt the content of
+future newsletters to the interests of the data subject. This personal
+data will not be disclosed to third parties. Affected persons are at any
+time entitled to revoke the separate declaration of consent made via the
+double-opt-in procedure. After revocation, this personal data will be
+deleted by the controller. A deregistration from the receipt of the
+newsletter automatically indicates the Thallos software as a revocation.
+
+=== 7. Routine deletion and blocking of personal data
+
+The controller shall process and store the personal data of the data
+subject only for the period necessary to achieve the purpose of the
+storage or, as the case may be, by the European directives or
+regulations or by any other legislator in laws or regulations which the
+controller was provided for.  +
+ +
+If the storage purpose is omitted or if a storage period prescribed by
+the European directives and regulations or any other relevant legislator
+expires, the personal data will be routinely blocked or deleted in
+accordance with the statutory provisions.
+
+=== 8. Rights of the data subject
+
+==== a) Right to confirmation
+
+Each data subject has the right, as granted by the European Regulators
+and Regulators, to require the controller to confirm whether personal
+data relating to him / her is being processed. If an affected person
+wishes to make use of this confirmation right, they can contact our data
+protection officer or another employee of the controller at any time.
+
+==== b) Right to information
+
+Any person concerned by the processing of personal data shall have the
+right, granted by the European Di- rective and Regulatory Authority, at
+any time to obtain from the data controller information free of charge
+on the personal data stored about him and a copy of that
+information. Furthermore, the European legislator and regulator has
+provided the data subject with the following information:
+
+* the processing purposes 
+* the categories of personal data being processed 
+* the recipients or categories of recipients to whom the personal data
+have been disclosed or are yet to be disclosed, in particular to
+recipients in third countries or to international organizations
+* if possible, the planned duration for which the personal data will be
+stored or, if that is not possible, the criteria for determining that
+duration 
+* the existence of a right to rectification or erasure of the personal
+data concerning him or of a restriction of the processing by the person
+responsible or of a right to object to such processing
+* the existence of a right of appeal to a supervisory authority 
+* if the personal data are not collected from the data subject: All
+available information on the source of the data 
+* the existence of an automated decision-making, including profiling in
+accordance *with Article 22, paragraph 1 and 4* DSGVO and - at least in
+these cases - meaningful information about the logic involved and the
+scope and the desired impact of such processing for the person concerned
+
+In addition, the data subject has a right of access as to whether
+personal data has been transmitted to a third country or to an
+international organization. If that is the case, then the data subject
+has the right to obtain information about the appropriate guarantees in
+connection with the transfer.
+
+If an affected person wishes to exercise this right to information, they
+can contact our data protection officer or another employee of the
+controller at any time.
+
+==== c) Right to rectification
+
+Any person affected by the processing of personal data has the right
+granted by the European legislator to demand the immediate correction of
+inaccurate personal data concerning him / her. Furthermore, the data
+subject has the right to request the completion of incomplete personal
+data, including by means of a supplementary declaration, taking into
+account the purposes of the processing.  +
+ +
+If an affected person wishes to exercise this right of rectification,
+they can contact our data protection officer or another member of the
+data controller at any time.
+
+==== d) Right to cancellation (right to be forgotten)
+
+Any person affected by the processing of personal data shall have the
+right granted by the European Directives and Regulators to require the
+controller to immediately delete the personal data concerning him,
+provided that one of the following reasons is satisfied and the
+processing is not required:
+
+* The personal data has been collected for such purposes or otherwise
+processed for which they are no longer necessary.
+* The person concerned revokes the consent on which the processing was
+based on the provisions of *Article 6 (1) (a)* GDPR or *Article 9 (2)
+(a) GDPR* and lacks any other legal basis for the processing.
+* According to *Art. 21 (1) GDPR, the data subject submits an* objection
+to the processing and there are no legitimate reasons for the
+processing, or the person concerned *objects* to the processing pursuant
+to *Art. 21 (2) GDPR* .
+* The personal data were processed unlawfully.
+* The erasure of personal data is necessary to fulfill a legal
+obligation under Union or national law to which the controller is
+subject.
+* The personal data were collected in relation to information society
+services offered pursuant to *Art. 8 (1) GDPR* .
+
+If any of the above reasons are correct and a data *subject wishes to
+arrange for* the deletion of personal data held by *Thallos Software* ,
+they may, at any time, contact our data protection officer or another of
+the data *controller's* employees. The data protection officer of
+Thallos Software or another employee will arrange that the deletion
+request be fulfilled immediately.
+
+If the personal data has been made public by *Thallos
+Software* and *if* our company is responsible for deleting personal data
+in accordance with *Art. 17 para. 1* DSGVO, the *Thallos
+Software* appliestaking into account available technology and
+implementation costs, appropriate measures, including technical means,
+to inform other data controllers processing the published personal data
+that the data subject has deleted all links from those other data
+controllers has requested such personal data or copies or replications
+of such personal data, as far as the processing is not required. The
+data protection officer of Thallos Software or another employee will
+arrange the necessary in individual cases.
+
+==== e) Right to restriction of processing
+
+Any person affected by the processing of personal data has the right,
+granted by the European directive and regulatory authority, to require
+the controller to restrict the processing if one of the following
+conditions applies:
+
+* The accuracy of the personal data is contested by the data subject for
+a period of time that enables the controller to verify the accuracy of
+the personal data.
+* The processing is unlawful, the data subject refuses to delete the
+personal data and instead requests the restriction of the use of
+personal data.
+* The controller no longer needs the personal data for the purposes of
+processing, but the data subject requires them to assert, exercise or
+defend legal claims.
+* The person concerned has objection to the processing acc. *Art. 21
+para. 1 DSGVO* and it is not yet clear whether the legitimate reasons of
+the person responsible outweigh those of the data subject.
+
+If one of the above conditions is met and an affected person wishes to
+request the restriction of personal data stored by Thallos Software,
+they may at any time contact our data protection officer or another
+employee of the controller. The data protection officer of Thallos
+Software or another employee will cause the restriction of processing.
+
+==== f) Data transferability 
+
+Any person affected by the processing of personal data shall have the
+right conferred by the European Directives and Regulations to obtain the
+personal data concerning him / her provided to a controller by the data
+subject in a structured, common and machine-readable format. It also has
+the right to transmit this data to another person without hindrance by
+the controller to whom the personal data was provided, provided that the
+processing is based on the consent pursuant to *Art. 6 (1) (a)
+GDPR* or *Art. 9 (2) Letter a DSGVO* or on a contract pursuant
+to **Article 6 (1) (b) GDPR**the processing shall be carried out by
+automated means, provided that the processing is not necessary for the
+performance of a task of public interest or in the exercise of public
+authority delegated to the controller.  +
+ +
+Furthermore, in exercising their right to data portability
+under *Article 20 (1) of the GDPR,* the data subject has the right to
+obtain that the personal data are transmitted directly from one
+controller to another, insofar as this is technically feasible and if
+not so the rights and freedoms of others are affected.  +
+ +
+In order to assert the right to data portability, the data subject may,
+at any time, be bound by the**Thallos Software** appointed data
+protection officer or another employee.
+
+==== g) Right to object
+
+Any person concerned by the processing of personal data shall have the right conferred by the European directive and regulatory authority at any time, for reasons arising from its particular situation, against the processing of personal data relating to it pursuant to Article 6 (1) (e) or f DSGVO takes an objection. This also applies to profiling based on these provisions.
+
+The *Thallos software* no longer process the personal data in the event of contradiction, unless we can prove compelling legitimate grounds for processing, outweigh the interests, rights and freedoms of the data subject, or the processing is for the establishment, exercise or defense of legal claims.
+
+Processes the *Thallos Software* personal information to operate direct mail, the person concerned has the right at any time to object to the processing of personal data for the purposes of such advertising. This also applies to the profiling, as far as it is associated with such direct mail. If the *data subject objects to Thallos software* for direct marketing purposes, *Thallos Software will* no longer process the personal data for these purposes. 
+
+In addition, the data subject has the right, for reasons arising out of their particular situation, to the processing of personal data relating to them, which in the case of **Thallos Software**for scientific or historical research purposes or for statistical purposes pursuant to *Art. 89 (1) GDPR* , an objection must be raised, unless such processing is necessary to fulfill a task of public interest. 
+
+In order to exercise the right to object, the data subject may directly contact the *Thallos Softwares* Data Protection Officer or another employee. The data subject is also free, in the context of the use of information society services, notwithstanding Directive 2002/58 / EC, to exercise his right of opposition by means of automated procedures using technical specifications.
+
+==== h) Automated decisions in individual cases including profiling
+
+Any person concerned by the processing of personal data shall have the right, as granted by the European legislature and the legislature, not to be subject to a decision based solely on automated processing, including profiling, which has a legal effect on it or, in a similar manner, significantly affects it; provided the decision
+
+* is not required for the conclusion or performance of a contract between the data subject and the controller, or
+* is permitted by Union or Member State legislation to which the controller is subject, and where such legislation contains appropriate measures to safeguard the rights, freedoms and legitimate interests of the data subject, or
+* with the express consent of the data subject.
+
+Is the decision
+
+* required for the conclusion or performance of a contract between the data subject and the controller or
+* it takes place with the express consent of the person concerned
+
+*Thallos Software* will take reasonable steps to *safeguard* the rights, freedoms and legitimate interests of the *data subject* , including at least the right to obtain the intervention of a person by the *controller* , to express his or her own position and to challenge the decision.
+
+If the data subject wishes to enforce automated decision-making rights, they may contact our data protection officer or other data controller at any time.
+
+==== i) Right to revoke a data protection consent
+
+Any person affected by the processing of personal data has the right, granted by the European directive and regulatory authority, to revoke consent to the processing of personal data at any time.
+
+If the data subject wishes to assert their right to withdraw consent, they may at any time contact our data protection officer or another member of the data controller.
+
+=== 9. Google Firebase / Crashlytics
+
+We use the Google Firebase developer platform and its associated features and services offered by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.
+
+Google Firebase is a platform for application developers (short "apps") for mobile devices and websites. Google Firebase offers a variety of features, which are shown on the following summary page: https://firebase.google.com/products/.
+
+The functions include, among other things, the storage of apps including personal data of the application users, such as e.g. content created by them or information regarding their interaction with the apps (so-called "cloud computing"). Google Firebase also provides interfaces that allow interaction between the users of the app and other services, e.g. authentication via services such as Facebook, Twitter or using an email-password combination.
+
+Users' interactions can be evaluated using the Firebase Analytics analysis service. Firebase Analytics is designed to capture how users interact with an app. In this case, events (so-called "events") are detected, such as opening the app for the first time, uninstalling, updating, crashing or frequency of using the app. With the events, other user interests, e.g. for certain functions of the applications or specific topics. As a result, user profiles can also be created, e.g. as a basis for the presentation of user-tailored advertising.
+
+Google Firebase and the users' personal information processed by Google Firebase may also be used in conjunction with other Google services, such as Google's services. Google Analytics and Google Marketing Services and Google Analytics (in which case, device-related information such as "Android Advertising ID" and "Advertising Identifier for iOS" will also be used to identify users' mobile devices).
+
+If we ask users for consent (for example, in the context of a cookie consent), the legal basis of this processing is Art. 6 (1) lit. a. DSGVO. Otherwise, the personal data of the users are processed on the basis of our legitimate interests (ie interest in the analysis, optimization and economic operation of our online offer within the meaning of Article 6 (1) (f) of the DSGVO).
+
+As far as data is processed in the US, we point out that Google is certified under the Privacy Shield Agreement, thereby ensuring compliance with European data protection law (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active) ,
+
+Google's Privacy Policy is available at https://policies.google.com/privacy. For more information about Google's data usage for marketing purposes, users can visit the overview page: https://policies.google.com/technologies/ads?hl=en,
+
+If users wish to opt-out of interest-based advertising through Google Marketing Services, they may use Google's recruitment and opt-out options: https://adssettings.google.com/
+
+We use Fabric / Google Crashlytics to record when our apps crash on your device. This helps us to resolve the causes of these crashes. For more information visit the Crashlytics Privacy Policy http://try.crashlytics.com/terms/
+
+=== 10. Privacy Policy for use and use of Matomo
+
+The controller has integrated the Matomo component in his services. Matomo is an open source software tool for web analysis. Web analysis is the collection, collection and analysis of data about the behavior of visitors to websites. Among other things, a web analysis tool collects data on which website an affected person came to a website (so-called referrer), which subpages of the website were accessed or how often and for which length of stay a subpage was viewed. A web analysis is mainly used to optimize a website. 
+ 
+The software is operated on the server of the controller, the data protection sensitive log files are stored exclusively on this server.
+
+The purpose of the Matomo component is to analyze visitor flows on our website. Among other things, the controller uses the data and information obtained to evaluate the use of this website in order to compile online reports showing the activities on our website. 
+
+In the technical process we are not aware of personal data. The acquired IP address is anonymized by Matomo. A conclusion on specific users is not possible. We use Matomo with a setting that ensures that cookies are not stored on the information technology system of the person concerned.
+
+Our Matomo installation takes into account the DoNotTrack configuration. More under http://donottrack.us/[donottrack.us] .
+
+Furthermore, the data subject has the possibility of objecting to and preventing detection of the data generated by Matomo on the use of this website. 
+
+++++
+<iframe style="border: 0; height: 200px; width: 600px;" src="https://analytics.acalc.de/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=&fontColor=&fontSize=&fontFamily=-apple-system"></iframe>
+++++

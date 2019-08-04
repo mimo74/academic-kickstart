@@ -49,14 +49,11 @@ subtitle = ""
 <div class="row">
 
 <div class="col-12 col-lg-4">
-<img src="img/ThallosLogoLS.png">
+<img src="/img/ThallosLogoLS.png">
 </div>
 <div class="col-12 col-lg-8 my-auto">
 
-over three decades of software development covering a wide range of environments, systems, methods and philosophies that passed by or stayed over the years.
-<br>
-<br>
-Since 6 years my passion is development for Apple platforms. Mainly iOS / iPadOS but also macOS, watchOS and tvOS focusing on Swift / SwiftUI but coming an Objective C background.
+ich beschäftige mich seit Jahrzehnten mit der Entwicklung von Software. Meine Hauptinteresse liegt aktuell im Bereich der Apple-Produktpalette
 
 </div>
 </div>

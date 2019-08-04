@@ -112,7 +112,7 @@ user_groups:
 - Visitors
 ---
 
-i bring over three decades of development experience covering a wide range of environments, systems, methods and philosophies that passed by or stayed over the years.
+i bring over three decades of software development experience covering a wide range of environments, systems, methods and philosophies that passed by or stayed over the years.
 
 And still: i am hungry for more.
 
