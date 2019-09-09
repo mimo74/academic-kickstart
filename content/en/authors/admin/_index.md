@@ -67,6 +67,11 @@ familiarwith:
 - Wordpress
 - Homebrew
 
+hobbies:
+- photography
+- travel
+- coding
+
 inearliertimes:
 - perl
 - Filemaker

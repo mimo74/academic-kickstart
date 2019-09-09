@@ -127,7 +127,7 @@
                     {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
                   </h4>
                   <div class="text-muted exp-meta">
-                  {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} â€“
+                  {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} - 
                   {{ if .date_end}}
                     {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
                   {{else}}
@@ -219,6 +219,20 @@
 
         {{ with $person.languages }}
           <h3>{{ i18n "languages" | markdownify }}</h3>
+        </div>
+        <div class="row">
+            <ul class="ul-mmexperience">
+            {{ range . }}
+            <li>{{ . | markdownify | emojify }}</li>
+            {{ end }}
+          </ul>
+        {{ end }}
+
+      </div>
+      <div class="row">
+
+        {{ with $person.hobbies }}
+          <h3>{{ i18n "hobbies" | markdownify }}</h3>
         </div>
         <div class="row">
             <ul class="ul-mmexperience">
