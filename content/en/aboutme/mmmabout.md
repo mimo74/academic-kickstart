@@ -1,6 +1,7 @@
 +++
 # About widget.
 widget = "mmmabout"  # See https://sourcethemes.com/academic/docs/page-builder/
+#widget = "mmmaboutprint"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
@@ -53,7 +54,7 @@ experiencetitle = "experience"
   
   Responsibilities include:
 
-  * erp expert
+  * erp expert covering a wide range of topics: Warehouse Management, PIM, MDE, distribution, purchase, MIS, disposal
   * progress OpenEdge
   * erp system hibis
   * erp system hawis

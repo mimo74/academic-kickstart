@@ -1,0 +1,251 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+{{ $author := "" }}
+{{ if .author }}
+  {{ $author = .author }}
+{{ else }}
+  {{ $author = $page.Params.author }}
+{{end}}
+
+{{ $person_page_path := (printf "/authors/%s" (urlize $author)) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://sourcethemes.com/academic/docs/page-builder/#about " $person_page_path }}
+{{end}}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+
+<!-- About widget -->
+<div class="cv">
+  <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="{{ if site.Params.email }}person-email{{ end }}{{ if site.Params.phone }} person-telephone{{ end }}{{ if site.Params.address}} person-address{{ end }}">
+    <div class="col-12 col-lg-4 align-self-center">
+      <center>
+
+      {{ if site.Params.gravatar }}
+      <img class="portrait" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')" itemprop="image" alt="Avatar">
+      {{ else if $avatar }}
+      {{ $avatar_image := $avatar.Fill "250x250 Center" }}
+      <img class="portrait" src="{{ $avatar_image.RelPermalink }}" itemprop="image" alt="Avatar">
+      {{ end }}
+
+      <div class="portrait-title">
+        <h2 itemprop="name">{{ $person.name }}</h2>
+        {{ with $person.role }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
+
+        {{ range $person.organizations }}
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+          {{ with .url }}<a href="{{ . }}" target="_blank" itemprop="url" rel="noopener">{{ end }}
+          <span itemprop="name">{{ .name }}</span>
+          {{ if .url }}</a>{{ end }}
+        </h3>
+        {{ end }}
+      </div>
+
+      <link itemprop="url" href="{{ .Permalink }}">
+
+      <ul class="network-icon" aria-hidden="true">
+        {{ range $person.social }}
+        {{ $pack := or .icon_pack "fas" }}
+        {{ $pack_prefix := $pack }}
+        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+          {{ $pack_prefix = "fa" }}
+        {{ end }}
+        {{ $link := .link }}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        {{ $target := "" }}
+        {{ if not $scheme }}
+          {{ $link = .link | relLangURL }}
+        {{ else if in (slice "http" "https") $scheme }}
+          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
+        <li>
+          <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </center>
+
+    </div>
+
+
+    <div class="col-12 col-lg-7 align-self-center">
+      
+      {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
+      {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+
+      {{ $person_page.Content }}
+
+    </div>
+
+  </div>
+
+  <div class="row">
+  
+    <div class="col-12 col-lg-4" itemprop="description">
+    </div>
+    <div class="col-12 col-lg-4" itemprop="description">
+
+      {{ with $person.fluentwith }}
+        <h3>&nbsp;{{ i18n "fluentwith" | markdownify }}</h3>
+          <ul class="ul-mmexperience">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
+      
+
+      
+      {{ with $person.interests }}
+        <h3>{{ i18n "interests" | markdownify }}</h3>
+
+        <ul class="ul-mmexperience">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
+
+      {{ with $person.inearliertimes }}
+        <h3>{{ i18n "inearliertimes" | markdownify }}</h3>
+
+        <ul class="ul-mmexperience">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
+
+      {{ with $person.languages }}
+        <h3>{{ i18n "languages" | markdownify }}</h3>
+          <ul class="ul-mmexperience">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+    <div class="col-12 col-lg-4" itemprop="description">
+        
+      {{ with $person.familiarwith }}
+        <h3>{{ i18n "familiarwith" | markdownify }}</h3>
+
+          <ul class="ul-mmexperience">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
+
+
+      {{ with $person.hobbies }}
+        <h3>{{ i18n "hobbies" | markdownify }}</h3>
+          <ul class="ul-mmexperience">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
+
+    </div>
+  </div>
+  </div>
+
+  <div class="mt-2">
+    &nbsp;
+  </div>
+  <div class="mt-2">
+      &nbsp;
+  </div>
+  <div class="row">
+      <div class="mt-2">
+          &nbsp;
+      </div>
+  </div>  <div class="row">
+      <div class="mt-2">
+          &nbsp;
+      </div>
+  </div>  <div class="row">
+      <div class="mt-2">
+          &nbsp;
+      </div>
+  </div>  <div class="row">
+      <div class="mt-2">
+          &nbsp;
+      </div>
+  </div>  
+  <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="{{ if site.Params.email }}person-email{{ end }}{{ if site.Params.phone }} person-telephone{{ end }}{{ if site.Params.address}} person-address{{ end }}">
+
+      
+  <!-- Experience widget -->
+  <div class="row">
+    <div class="col-12 col-lg-4 section-heading">
+      <center>
+      <h1>Experience</h1>
+      </center>
+      {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+    </div>
+    <div class="col-12 col-lg-7">
+      {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
+
+      {{ if $page.Params.experience }}
+      {{ $exp_len := len $page.Params.experience }}
+      {{ range $idx, $key := sort $page.Params.experience ".date_start" "desc" }}
+      <div class="row experience">
+        <!-- Timeline -->
+        <div class="col-auto text-center flex-column d-none d-sm-flex">
+          <div class="row h-50">
+            <div class="col {{if gt $idx 0}}border-right{{end}}">&nbsp;</div>
+            <div class="col">&nbsp;</div>
+          </div>
+          <div class="m-2">
+            <span class="badge badge-pill border {{if not .date_end}}exp-fill{{end}}">&nbsp;</span>
+          </div>
+          <div class="row h-50">
+            <div class="col {{if lt $idx (sub $exp_len 1)}}border-right{{end}}">&nbsp;</div>
+            <div class="col">&nbsp;</div>
+          </div>
+        </div>
+        <!-- Content -->
+        <div class="col py-2">
+          <div class="card">
+            <div class="card-body">
+              <div class="row h-50 align-self-right">
+                <div class="col-2 align-self-center">
+                    {{- with .company_img}}<img src="{{.}}">{{end}}
+                </div>
+                <div class="col">
+                  <h4 class="card-title exp-title text-muted mt-0 mb-1">{{.title | markdownify | emojify}}</h4>
+                  <h4 class="card-title exp-company text-muted my-0">
+                    {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
+                  </h4>
+                  <div class="text-muted exp-meta">
+                  {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
+                  {{ if .date_end}}
+                    {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
+                  {{else}}
+                    {{ i18n "present" | default "Present" }}
+                  {{end}}
+                  {{with .location}}
+                    <span class="middot-divider"></span>
+                    <span>{{.}}</span>
+                  {{end}}
+                  </div>
+                </div>
+              </div>
+              {{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
+            </div>
+          </div>
+        </div>
+      </div>
+      {{end}}
+      {{end}}
+    </div>
+  </div>
+
+    
+  </div>
+</div>

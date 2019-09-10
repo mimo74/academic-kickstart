@@ -53,7 +53,7 @@ experiencetitle = "experience"
   
   Responsibilities include:
 
-  * erp expert
+  * erp expert covering a wide range of topics: Warehouse Management, PIM, MDE, distribution, purchase, MIS, disposal
   * progress OpenEdge
   * erp system hibis
   * erp system hawis
