@@ -31,8 +31,8 @@
 
       <div class="portrait-title">
         <h2 itemprop="name">{{ $person.name }}</h2>
+        {{ with $person.birthday }}<h3 itemprop="birthday">{{ . | markdownify | emojify }}</h3>{{ end }}
         {{ with $person.role }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
-
         {{ range $person.organizations }}
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
           {{ with .url }}<a href="{{ . }}" target="_blank" itemprop="url" rel="noopener">{{ end }}
@@ -164,15 +164,8 @@
       <div class="mt-2">
           &nbsp;
       </div>
-  </div>  <div class="row">
-      <div class="mt-2">
-          &nbsp;
-      </div>
-  </div>  <div class="row">
-      <div class="mt-2">
-          &nbsp;
-      </div>
-  </div>  <div class="row">
+  </div>  
+  <div class="row">
       <div class="mt-2">
           &nbsp;
       </div>
@@ -182,13 +175,13 @@
       
   <!-- Experience widget -->
   <div class="row">
-    <div class="col-12 col-lg-4 section-heading">
+    <div class="col-12 col-lg-3 section-heading">
       <center>
       <h1>Experience</h1>
       </center>
       {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
     </div>
-    <div class="col-12 col-lg-7">
+    <div class="col-12 col-lg-8">
       {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
 
       {{ if $page.Params.experience }}
@@ -245,7 +238,158 @@
       {{end}}
     </div>
   </div>
-
     
   </div>
 </div>
+
+
+<div class="row">
+  <div class="mt-2">
+      &nbsp;
+  </div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>  
+<div class="row">
+  <div class="mt-2">
+      &nbsp;
+  </div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>  
+<div class="row">
+  <div class="mt-2">
+      &nbsp;
+  </div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>  
+<div class="row">
+  <div class="mt-2">
+      &nbsp;
+  </div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>  
+<div class="row">
+  <div class="mt-2">
+      &nbsp;
+  </div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>  
+<div class="row">
+  <div class="mt-2">
+      &nbsp;
+  </div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>    <div class="row">
+<div class="mt-2">
+    &nbsp;
+</div>
+</div>  

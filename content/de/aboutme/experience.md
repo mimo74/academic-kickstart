@@ -49,8 +49,7 @@ date_format = "Jan 2006"
 
   * erp expert covering a wide range of topics: Warehouse Management, PIM, MDE, distribution, purchase, MIS, disposal
   * progress OpenEdge
-  * erp system hibis
-  * erp system hawis
+  * erp system hibis, proALPHA, erp system hawis
   * SAP / ABAP
   """
 
@@ -70,6 +69,18 @@ date_format = "Jan 2006"
   * developing FileMaker seminar management app
   * for the canteen: tranfering a lotus 123 file recipe collection to a database
   * first contact with “the internet”
+  """
+
+[[experience]]
+  title = "Schulausbildung"
+  company = "Fachgymnasium Wirtschaft in Soltau"
+  company_img = ""
+  company_url = ""
+  location = "Soltau"
+  date_start = "1990-09-01"
+  date_end = "1993-07-31"
+  description = """
+  Abitur / Allgemeine Hochschulreife
   """
 
 +++

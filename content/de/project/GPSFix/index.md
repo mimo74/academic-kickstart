@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "GPSFix"
-summary: "GPSFix is here to help you fix your missing or false location data in your Photos Library."
+summary: "GPSFix hilft Ihnen dabei, fehlende oder falsche Positionsdaten in Ihrer Fotobibliothek zu korrigieren."
 authors: [admin]
 tags: [Apps]
 categories: [Apps]
@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: AppStore
+  url: https://apps.apple.com/de/app/gpsfix-for-photos/id1474464432
+  icon_pack: fab
+  icon: app-store-ios
 
 url_code: ""
 url_pdf: ""
@@ -42,4 +42,4 @@ slides: ""
 
 # GPSFix
 
-GPSFix is here to help you fix your missing or false location data in your Photos Library. Haben Sie Fragen zu GPSFix, Idden oder Probleme schreiben Sie uns eine Mail an [support@thallos.de](mailto:support@thallos.de)
+GPSFix hilft Ihnen dabei, fehlende oder falsche Positionsdaten in Ihrer Fotobibliothek zu korrigieren. Haben Sie Fragen zu GPSFix, Ideen oder Probleme: schreiben Sie uns eine Mail an support@thallos.de

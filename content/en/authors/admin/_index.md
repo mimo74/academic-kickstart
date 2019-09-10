@@ -2,6 +2,8 @@
 # Display name
 name: Michel Mohrmann
 
+birthday: 09.04.1974
+
 # Username (this should match the folder name)
 authors:
 - admin
@@ -51,6 +53,7 @@ familiarwith:
 - CakePHP
 - PHP
 - Databases / MySQL, progress
+- OpenAPI / Swagger
 - Confluence
 - Jira
 - Scrum
@@ -61,6 +64,7 @@ familiarwith:
 - HTML
 - XML
 - EDI
+- openHAB
 - Jekyll
 - fastlane
 - Hugo.io (Static site generator)
@@ -85,7 +89,7 @@ inearliertimes:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:m.mohrmann@thallos.de'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen

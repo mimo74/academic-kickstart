@@ -2,7 +2,7 @@
   translation: Sprachen
 - id: fluentwith
   translation: sehr gut in
-- id: vertraut mit
+- id: familiarwith
   translation: vertraut mit
 - id: inearliertimes
   translation: früher mal
@@ -17,4 +17,4 @@
 - id: stuff
   translation: stuff  
 - id: hobbies
-  translation: hobbies
+  translation: Hobbies

@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: AppStore
+  url: https://apps.apple.com/us/app/aqua-calculator/id1247415345?mt=12
+  icon_pack: fab
+  icon: apple
 
 url_code: ""
 url_pdf: ""
@@ -40,6 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-#AquaCalculator macOS
+# AquaCalculator macOS
 
 Die Referenz-Software für engagierte Meerwasser-Aquarianer.<br>Informationen über den AquaCalculator finden sie [hier](https://www.acalc.de) Haben Sie Fragen zum AquaCalculator oder Probleme mit dem [AquaCalculator](https://www.acalc.de) schreiben Sie uns eine Mail an [support@thallos.de](mailto:support@thallos.de)

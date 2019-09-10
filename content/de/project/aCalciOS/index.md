@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: AppStore
+  url: https://apps.apple.com/de/app/aqua-calculator/id1449511522
+  icon_pack: fab
+  icon: app-store-ios
 
 url_code: ""
 url_pdf: ""
