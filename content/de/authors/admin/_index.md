@@ -117,8 +117,8 @@ user_groups:
 - Visitors
 ---
 
-i bring over three decades of software development experience covering a wide range of environments, systems, methods and philosophies that passed by or stayed over the years.
+Ich bringe über drei Jahrzehnte Erfahrung in der Softwareentwicklung mit, die ein breites Spektrum von Umgebungen, Systemen, Methoden und Philosophien abdecken, die über die Jahre gekommen und gegangen oder geblieben sind.
 
-And still: i am hungry for more.
+und noch immer bin ich neugierig auf Neues.
 
-Since 6 years my passion is development for Apple platforms. Mainly iOS / iPadOS but also macOS, watchOS and tvOS focusing on Swift / SwiftUI but coming from an Objective C background.
+Seit 6 Jahren ist meine Leidenschaft die Entwicklung für Apple-Plattformen. Hauptsächlich iOS / iPadOS. Aber auch macOS, watchOS und tvOS. Entwicklung die sich auf Swift / SwiftUI konzentrieren, aber einen Objective-C Hintergrund haben.

@@ -121,4 +121,4 @@ i bring over three decades of software development experience covering a wide ra
 
 And still: i am hungry for more.
 
-Since 6 years my passion is development for Apple platforms. Mainly iOS / iPadOS but also macOS, watchOS and tvOS focusing on Swift / SwiftUI but coming an Objective C background.
+Since 6 years my passion is development for Apple platforms. Mainly iOS / iPadOS but also macOS, watchOS and tvOS focusing on Swift / SwiftUI but coming an Objective-C background.
