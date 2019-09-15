@@ -56,7 +56,7 @@ subtitle = ""
 over three decades of software development covering a wide range of environments, systems, methods and philosophies that passed by or stayed over the years.
 <br>
 <br>
-Since 6 years my passion is development for Apple platforms. Mainly iOS / iPadOS but also macOS, watchOS and tvOS focusing on Swift / SwiftUI but coming an Objective C background.
+Since 6 years my passion is development for Apple platforms. Mainly iOS / iPadOS but also macOS, watchOS and tvOS focusing on Swift / SwiftUI but coming from an Objective C background.
 
 </div>
 </div>
